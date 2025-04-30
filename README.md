@@ -9,11 +9,12 @@ The `data/` subdirectory contains:
 
 - `tng100-1_bar_size.hdf5`: Galaxy bar size evolution in TNG100 for disk galaxies ($\kappa_{\rm rot} \geq 0.5$) with $\log(M_*/M_{\odot}) = 10.4$–$11.1$, from Snapshot 50 ($z = 1$) to Snapshot 99 ($z = 0$).
 
-- `s4gbars_table.dat`: Bar statistics from *Erwin (2018), "The Dependence of Bar Frequency on Galaxy Mass, Colour, and Gas Content — and Angular Resolution — in the Local Universe," *Monthly Notices of the Royal Astronomical Society*, **474:** 5372; [arXiv:1711.04867](https://arxiv.org/abs/1711.04867).
+- `s4gbars_table.dat`: Bar statistics from Erwin (2018), "The Dependence of Bar Frequency on Galaxy Mass, Colour, and Gas Content — and Angular Resolution — in the Local Universe," *Monthly Notices of the Royal Astronomical Society*, **474:** 5372; [arXiv:1711.04867](https://arxiv.org/abs/1711.04867).
 
 ### Figures
 
 ![sample](./TNG50vsTNG100vsS4Gselectsimply.png)
+
 *This figure shows the variation of bar fraction ($f_{\rm bar}$, upper) and bar size distribution ($R_{\rm bar}$, lower) with stellar mass ($M_{*,30\,\mathrm{kpc}}$) for galaxies in TNG100 (blue) and TNG50 (red).*
 
 ![TNG100 bar size](./showTNG100barlength_bymass.png)
